@@ -16,6 +16,6 @@ The Simple Color Picker App allows users to select a color from a chosen image a
 To run the Simple Color Picker App:
 
 1. Clone the repository:
-   ```bash
+ ```bash
    git clone https://github.com/CodeWithTamim/Color-Picker-Android.git
 ```
